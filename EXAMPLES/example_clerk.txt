@@ -1,0 +1,22 @@
+Which method would you like to checkout with? [clerk or express]: clerk
+> pizza
+Subtotal: $10.00
+> pizza
+Subtotal: $20.00
+> sparkling water
+Subtotal: $29.00
+> lollipop
+Subtotal: $32.00
+> eggs
+Subtotal: $38.00
+> steak
+Subtotal: $54.00
+> END CART
+
+--- RECEIPT ---
+pizza   2       $10.0
+sparkling water 1       $9.0
+lollipop        1       $3.0
+eggs    1       $6.0
+steak   1       $16.0
+TOTAL: $54.00

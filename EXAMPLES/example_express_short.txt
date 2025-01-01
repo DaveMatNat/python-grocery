@@ -1,0 +1,9 @@
+Which method would you like to checkout with? [clerk or express]: express
+> pizza,pizza
+
+--- RECEIPT ---
+pizza   2       $10.0
+TOTAL: $20.00
+
+
+egg,egg,egg,milk,milks,milked,butter,cheese,onion,garlic,paprika,pizza,basil, waffle

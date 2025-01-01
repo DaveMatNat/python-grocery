@@ -1,0 +1,14 @@
+Which method would you like to checkout with? [clerk or express]: express
+> oj,pizza,eggs,salmon,steak,cat food,lollipop,brocolli,brocolli,rice,rice,sparkling water, rice
+
+--- RECEIPT ---
+oj      1       $5.0
+pizza   1       $10.0
+eggs    1       $6.0
+salmon  1       $12.0
+steak   1       $16.0
+cat food        1       $13.0
+lollipop        1       $3.0
+brocolli        2       $4.0
+rice    1       $2.0
+TOTAL: $75.00

@@ -1,0 +1,12 @@
+Which method would you like to checkout with? [clerk or express]: clerk
+> steak
+Subtotal: $16.00
+> french fries
+> rice
+Subtotal: $18.00
+> END CART
+
+--- RECEIPT ---
+steak   1       $16.0
+rice    1       $2.0
+TOTAL: $18.00
